@@ -1,0 +1,35 @@
+@CHARSET "UTF-8";
+
+
+#uni
+{
+	
+	background-color: #00a5b4;
+	padding: 30px 10px 50px 50px;
+}
+.univ
+{
+	
+	
+	max-width:1260px;
+	width:100%;
+	
+	
+	box-sizing:border-box; 
+	background-color: #f5f5f5;
+	padding: 30px 10px 50px 120px;
+	
+
+	
+}
+
+#full-img
+{
+	height:280px;width:260px; float:right;
+}
+
+#univ-cont
+{
+	width:100%;
+}
+

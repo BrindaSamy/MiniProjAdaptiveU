@@ -1,0 +1,50 @@
+@CHARSET "UTF-8";
+
+.explore
+{
+	width:100%;
+	height:400;
+}
+
+body
+{
+	background-image:url("images/books-specs.jpg");
+}
+
+#explore-btn
+{
+background-color: #3cb878;
+  width: 140px;
+  padding: 10px 20px;
+  margin: 0;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: 300;
+  font-size: 16px;
+  border-color:aqua ;
+ 	font-family:museo;
+  font-size:24px;
+ 	
+ 
+  
+}
+.exp
+{
+	backgroud-image:url('images/explore-banner.png')no-repeat;
+}
+#exp-con
+{
+	margin:1cm;
+	font-size:20px;
+	font-family:museo;
+	
+}
+
+#exp-img
+{
+	align:middle;
+	height:500px;
+	margin-left:10%;
+	width:80%;
+	 padding:120px 0px 20px 30px;
+}
